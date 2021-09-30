@@ -41,7 +41,7 @@ h2{
 }
 @media screen and (max-width: 601px) {
     h2 {
-        font-size: 18px;
+        font-size: 16px;
         color:  #101010;
         ;
 }   
