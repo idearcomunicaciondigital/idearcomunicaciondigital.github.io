@@ -4,14 +4,18 @@
     padding: 0px;
     font-family: Montserrat;
 }
+
+
 body {
     width: 100vw;
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    
     background: #171723;
 }
+
+
+
 h1{
     color: #101010;
     font-size: 44px;
@@ -23,8 +27,8 @@ h1{
     h1 {
         font-size: 15px;
         color:   #101010;
-        ;
-}   
+        
+}   }
 
 
 
@@ -55,6 +59,9 @@ h2{
     background-color: #D5A026;
 
 }
+
+
+
 .buscanos{
     display: flex;
     position: absolute;
@@ -62,7 +69,5 @@ h2{
     width: 100%;
     justify-content: center;
     align-items: center;
-7;
     text-align:center;
-
 }
